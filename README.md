@@ -1,4 +1,4 @@
-# 🍃 MERN Boilerplate
+# 🍃 MERN Stack Boilerplate
 A dockerized boilerplate for full-stack web applications built with [M]ongoDB, [E]xpress, [R]eact, and [N]ode.
 
 ## Development with Docker
